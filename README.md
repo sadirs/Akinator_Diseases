@@ -1,11 +1,5 @@
-# Akinator_Diseases
+# Akinator Diseases Repository
 Code to predict the disease you may have
-
-
-# *Emulator of Distances Repository* @ Cuernavaca, Morelos
-
-Repository for the *V Taller de Métodos Numéricos y Estadísticos en Cosmología* @ Cuernavaca, Morelos
-
 
 #### To execute the project remotely:
 Tu run the emulator you can do it online using google collab wiht the link
