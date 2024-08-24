@@ -13,7 +13,7 @@ Tu run the Akinator you can do it online using google collab wiht the link
 - [Sadi Ramirez Solano](mailto:sadiramirez@estudiantes.fisica.unam.mx)
 
 
-The code can be executed using the provided Google Colab link for Akinator_Sadi.ipynb. Alternatively, you can download the notebook, convert it to a Python file, and run it from the terminal.
+The code can be executed using the provided Google Colab link for Akinator_sadi.ipynb. Alternatively, you can download the files, and run it from the terminal.
 
 The program will prompt you for various symptoms, starting with the most common ones. It will update the probabilities using Bayesian inference, construct a vector based on the symptoms, and finally use a neural network trained on the data to provide a prediction (this will be more accurate when adding more data of symptoms). Most of the time, the prediction will align with the most probable disease based on Bayesian inference. However, in cases of ties, the neural network will consider the most frequently occurring disease and will give an output with some recomendations.
 
