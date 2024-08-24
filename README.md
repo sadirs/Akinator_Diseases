@@ -1,5 +1,5 @@
 # Akinator Diseases Repository
-Code to predict the disease you may have based on neural networks and bayesian inference
+Code for predicting potential diseases using neural networks and Bayesian inference.
 
 #### To execute the project remotely:
 Tu run the emulator you can do it online using google collab wiht the link
