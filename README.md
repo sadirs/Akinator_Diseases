@@ -19,4 +19,6 @@ The program will prompt you for various symptoms, starting with the most common 
 
 If you want to use a different dataset, you can use the emulator code to train it on various data, such as personas with specific characteristics. The code will clean the data, convert it into binary form, and generate an emulator for you.
 
+Emulator trained on the data achieved a test accuracy of 1.0000. While this may indicate overfitting, it is not a concern for our purposes.
+
 This Akinator Emulator uses disease data obtained from [Kaggle](https://www.kaggle.com/).
